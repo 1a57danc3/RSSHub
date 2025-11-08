@@ -959,7 +959,7 @@
   "/bilibili/popular/all/:embed?": [
     "ziminliu"
   ],
-  "/bilibili/ranking/:rid_index?/:embed?/:redirect1?/:redirect2?": [
+  "/bilibili/ranking/:rid?/:embed?/:redirect1?/:redirect2?": [
     "DIYgod",
     "hyoban"
   ],
@@ -1731,13 +1731,30 @@
     "Derekmini",
     "pseudoyu"
   ],
-  "/cnljxh/:category?/:id?": [],
+  "/cnljxh/news/:id?": [
+    "nczitzk"
+  ],
   "/cntheory/paper/:id?": [
     "nczitzk"
   ],
   "/cntv/:column": [
     "WhoIsSure",
     "Fatpandac"
+  ],
+  "/cnu/iec": [
+    "liueic"
+  ],
+  "/cnu/jdxw": [
+    "liueic"
+  ],
+  "/cnu/jwc": [
+    "liueic"
+  ],
+  "/cnu/physics": [
+    "liueic"
+  ],
+  "/cnu/smkxxy": [
+    "liueic"
   ],
   "/cockroachlabs/blog/:category?": [
     "CookiePieWw"
@@ -1858,6 +1875,9 @@
   "/cqgas/tqtz": [
     "Mai19930513"
   ],
+  "/cqu/jwc/:path{.+}?": [
+    "AhsokaTano26"
+  ],
   "/cqwu/news/:type?": [
     "Fatpandac"
   ],
@@ -1931,6 +1951,9 @@
   ],
   "/ctbu/xxgg": [
     "Skylwn"
+  ],
+  "/ctinews/topic/:topic?": [
+    "TonyRL"
   ],
   "/cts/:category": [
     "miles170"
@@ -2141,6 +2164,9 @@
     "blade0910"
   ],
   "/dgjyw*": [],
+  "/dgtle/article/:id?/:pushed?": [
+    "nczitzk"
+  ],
   "/dgtle/news/:id?": [
     "nczitzk"
   ],
@@ -4586,6 +4612,9 @@
     "nczitzk"
   ],
   "/jjwxc/book/:id?": [
+    "nczitzk"
+  ],
+  "/jl1mall/forum/:type?/:key?": [
     "nczitzk"
   ],
   "/jlu/jwc": [
